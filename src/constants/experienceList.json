@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Skinstric",
+    "role": "Frontend Oriented Full-Stack Developer",
+    "resps": [
+      "Developed a scalable web widget for 900,000 users, amplifying user satisfaction while ensuring seamless maintenance.",
+      "Revamped CI/CD pipelines through Bitbucket Pipelines and AWS Devops, slashing deployment time and enhancing agility.",
+      "Translated 12 complex User Interface Designs and Animations into Code with TypeScript, React, and Next.js",
+      "Led innovative proof of concepts, driving continuous product improvement.",
+      "Steered the rapid transformation of a CMS into a production-ready application within a 3-month timeline.",
+      "Transformed 18 design Mockups into visually appealing, functional user interfaces using JavaScript and React.",
+      "Architected a backend system to continuously monitor the uptime of all user interfaces, ensuring optimal performance.",
+      "Streamlined widget implementation by condensing it into a single-line code snippet, enhancing accessibility and ease of integration.",
+      "Conducted thorough testing of frontend and backend code, swiftly identifying and resolving 80+ bugs and issues.",
+      "Engineered and executed a robust user data collection process, resulting in a 50% decrease in form errors and improved data accuracy for targeted marketing campaigns.",
+      "Recognized for accelerated growth and proactive leadership, advancing to further levels of software development.",
+      "Demonstrated adeptness in spearheading projects, selecting optimal tech stacks, and consistently delivering project outcomes.",
+      "Fine-tuned frontend and backend code for 40% improvement in performance and faster loading times.",
+      "Created database Schemas and queries for 32% more efficient data storage and retrieval."
+    ],
+    "date": "Feb 2022 - Current"
+  },
+  {
+    "company": "Chrono Group, LLC",
+    "role": "Frontend/Full-Stack Developer",
+    "resps": [
+      "Collaborated with UX/UI designers to translate 28+ wireframes and designs into interactive web apps with React & Redux",
+      "Scaled a High-Traffic System by 45% utilizing the database design, server architecture, caching mechanisms, load balancing, and performance optimization.",
+      "Refined SQL query performance, achieving a 36% system performance boost.",
+      "Enforced robust security measures including encryption, multi-factor authentication, and role-based access control, resulting in a 30% reduction in security breaches and ensuring compliance with industry standards.",
+      "Refined backend and frontend code for optimized application performance and response times, resulting in a 40% reduction in page load time and a 25% increase in overall system efficiency.",
+      "Collaborated with UX/UI designers to translate 20+ wireframes and designs into interactive web interfaces."
+    ],
+    "date": "Jan 2020 - Feb 2022"
+  },
+  {
+    "company": "Qoves",
+    "role": "Full Stack Developer Intern",
+    "resps": [
+      "Revamped 10 static HTML, CSS, JavaScript, and React-based apps with engaging animations, smooth transitions, and visually appealing carousels; achieved 30% higher user retention and 20% increased click-through rates.",
+      "Produced a robust data processing system using Axios, enabling real-time data display, skeleton loading, pagination, and responsive routing, resulting in a more interactive and user-friendly application.",
+      "Applied client-side data caching strategies to reduce server load by 28% and improve user experience by 34%.",
+      "Architected and executed API endpoints to facilitate seamless integration between front-end and back-end systems; boosting database operations and overall system performance by 35%.",
+      "Implemented Git version control and streamlined GitHub collaboration processes, leading to a 50% reduction in code conflicts and a 20% increase in team productivity."
+    ],
+    "date": "Jan 2019 - Jan 2020"
+  }
+]
